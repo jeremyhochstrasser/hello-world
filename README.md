@@ -1,2 +1,4 @@
 # hello-world
-Creating my first repo on github
+Hello Aliens,
+
+My name is Jeremy Hochstrasser and I am a computer science student at Boise State University
